@@ -7,7 +7,7 @@ I specialize in designing scalable data architectures, building robust ETL pipel
 ### 💡 About Me
 - I enjoy **data modeling in SQL** ⭐ and building **interactive dashboards** 📈.  
 - Currently learning **Databricks** and the **GCP stack** ☁️.  
-- I love to **cook**, **watch movies**, and **walk with my dog Capuccino** 🐕.  
+- I love to **cook** 👨‍🍳, **watch movies** 🎬, and **walk with my dog Capuccino** 🐕.  
 
 ### 📫 Get in Touch
 - 📧 **Email:** [diegodasp91@gmail.com](mailto:diegodasp91@gmail.com)  
