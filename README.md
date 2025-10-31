@@ -1,8 +1,7 @@
 ## Hi there! I'm Diego 👋  
 **Data Engineer | Industry 4.0 | BI | BA | IIoT | ML | Big Data | DataOps | UNS**
 
-I’m a Data Engineer with strong expertise in **Industrial IoT** and **Healthcare**, passionate about solving complex problems through **data, cloud technologies, and automation** 🤖.  
-I specialize in designing scalable data architectures, building robust ETL pipelines, and developing analytical models that transform raw data into actionable insights.
+I’m a Data Engineer with strong expertise in **Industrial IoT**🏭 and **Healthcare**🩺, passionate about solving complex problems through **data, cloud technologies, and automation** 🤖.  
 
 ### 💡 About Me
 - I enjoy **data modeling in SQL** ⭐ and building **interactive dashboards** 📈.  
@@ -25,11 +24,11 @@ I specialize in designing scalable data architectures, building robust ETL pipel
 ![MQTT](https://img.shields.io/badge/MQTT-gray?style=flat&logo=mqtt)
 ![Databricks](https://img.shields.io/badge/Databricks-gray?style=flat&logo=databricks)
 
-![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-yellow?style=flat)
+![Tableau](https://img.shields.io/badge/Tableau-black?style=flat)
 
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-orange?style=flat)
+![Azure](https://img.shields.io/badge/Azure-blue?style=flat)
 
 ---
 
