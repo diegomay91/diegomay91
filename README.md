@@ -7,7 +7,7 @@ I specialize in designing scalable data architectures, building robust ETL pipel
 ### 💡 About Me
 - I enjoy **data modeling in SQL** ⭐ and building **interactive dashboards** 📈.  
 - Currently learning **Databricks** and the **GCP stack** ☁️.  
-- I love to **cook** 👨‍🍳, **watch movies** 🎬, and **walk with my dog Capuccino** 🐕.  
+- I love to **cook** 👨‍🍳, **watch movies** 🎬, and **walk** with my dog **Capuccino** 🐕.  
 
 ### 📫 Get in Touch
 - 📧 **Email:** [diegodasp91@gmail.com](mailto:diegodasp91@gmail.com)  
@@ -23,10 +23,10 @@ I specialize in designing scalable data architectures, building robust ETL pipel
 ![Html](https://img.shields.io/badge/HTML-gray?style=flat&logo=html5)
 ![R](https://img.shields.io/badge/R-gray?style=flat&logo=r)
 ![MQTT](https://img.shields.io/badge/MQTT-gray?style=flat&logo=mqtt)
+![Databricks](https://img.shields.io/badge/Databricks-gray?style=flat&logo=databricks)
 
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
